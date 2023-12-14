@@ -1,0 +1,15 @@
+Amortization Schedule with extra payment 2876
+Bakery Shopping list 4561
+dinner sign up 8454
+Dynamic amortization schedule 1939
+Dynamic Data Cleaning 6267
+Dynamic Temperature Lookup 4780
+Friday the 13th 3489
+Historical Weathe lookup Part A 4190
+Longest Ladder around the corner 3377
+Nearest Eighth of an inch 9381
+Real time regression 1903
+Sensitivity analysis 6093
+world bank lookup 5271
+Rental Center Inventory 5298
+Distance Calculator 4949
